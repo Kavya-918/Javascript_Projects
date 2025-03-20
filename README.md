@@ -1,7 +1,6 @@
 # Javascript_Projects
 Collection of JS mini projects
 
-
 Tip Calculator 💰 --Project
 Overview
 The Tip Calculator is a simple web application that helps users calculate the total amount to be paid, including a tip percentage, based on the bill amount. It is built using HTML, CSS, and JavaScript and provides an easy way to compute the final bill amount with a single button click.
